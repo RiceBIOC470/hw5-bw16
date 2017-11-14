@@ -1,4 +1,15 @@
 %HW5
+%GB comments
+1a 70 image missing in repository and explanation could be more complete. There is more to the problem than overlapping cells. 
+1b 100
+1c 100
+1d 100
+2yeast: 90. At the end, I used imerode to reduce the masks to get better separation of the objects. 
+2worm: 100
+2bacteria: 95 Could have imposed some morphological transformations to reduce the overlap of several masks. 
+2phase: 100 
+Overall: 94
+
 
 % Note. You can use the code readIlastikFile.m provided in the repository to read the output from
 % ilastik into MATLAB.
